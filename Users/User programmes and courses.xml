@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <report version="2011040116"><visible><![CDATA[1]]></visible>
 <name><![CDATA[User programmes and courses]]></name>
-<summary><![CDATA[]]></summary>
+<summary><![CDATA[<p>List all students in a course, together with the students study programme and other courses the student is enrolled in. <br></p>]]></summary>
 <type><![CDATA[sql]]></type>
 <pagination><![CDATA[0]]></pagination>
 <components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjM6e3M6ODoicXVlcnlzcWwiO3M6ODY1OiJTRUxFQ1QrZmlyc3RuYW1lJTJDK2xhc3RuYW1lJTJDK2VtYWlsJTJDY2l0eSUyQysrJTI4c2VsZWN0K3VpZC5kYXRhK0ZST00rJTdCdXNlcl9pbmZvX2RhdGElN0QrQVMrdWlkK0pPSU4rJTdCdXNlcl9pbmZvX2ZpZWxkJTdEK0FTK3VpZitPTit1aWYuaWQrJTNEK3VpZC5maWVsZGlkK1dIRVJFK3VpZC51c2VyaWQlM0QrdXNyLmlkKysrJTI5KytBUytQcm9ncmFtbWUlMkMrdXNyLmRlc2NyaXB0aW9uJTJDJTBEJTBBJTI4c2VsZWN0K0dST1VQX0NPTkNBVCUyOGNvdTIuZnVsbG5hbWUrT1JERVIrQlkrY291Mi5pZCtERVNDK1NFUEFSQVRPUislMjclMkMrJTI3JTI5K2Zyb20rJTdCY291cnNlJTdEK2FzK2NvdTIrJTBEJTBBSk9JTislN0Jjb250ZXh0JTdEK0FTK2N0eDIrT04rY3R4Mi5pbnN0YW5jZWlkKyUzRCtjb3UyLmlkJTBEJTBBSk9JTisrJTdCcm9sZV9hc3NpZ25tZW50cyU3RCtBUytyYTIrT04rcmEyLmNvbnRleHRpZCslM0QrY3R4Mi5pZCUwRCUwQVdIRVJFKytyYTIudXNlcmlkKyUzRCt1c3IuaWQrJTBEJTBBQU5EK3JhMi5yb2xlaWQrJTNEKzUlMEQlMEElMjkrQVMrJTI3ZW5yb2xsZWQrYXMrc3R1ZGVudCtpbiUyNyUwRCUwQUZST00rJTdCcm9sZV9hc3NpZ25tZW50cyU3RCtBUytyYSUwRCUwQUpPSU4rJTdCY29udGV4dCU3RCtBUytjdHgrT04rcmEuY29udGV4dGlkKyUzRCtjdHguaWQlMEQlMEFKT0lOKyU3QnVzZXIlN0QrQVMrdXNyK09OK3Vzci5pZCslM0QrdXNlcmlkKyUwRCUwQUpPSU4rJTdCcm9sZSU3RCtBUytyb2xlK09OK3JvbGVpZCslM0Qrcm9sZS5pZCsrJTBEJTBBV0hFUkUrcmEucm9sZWlkKyUzRCs1KyUwRCUwQUFORCtjdHguaW5zdGFuY2VpZCslM0QrJTI1JTI1Q09VUlNFSUQlMjUlMjUrJTBEJTBBIjtzOjg6ImNvdXJzZWlkIjtpOjEyNzYwMTc7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO319czoxMToicGVybWlzc2lvbnMiO2E6Mjp7czo2OiJjb25maWciO086Njoib2JqZWN0IjoxOntzOjEzOiJjb25kaXRpb25leHByIjtzOjA6IiI7fXM6ODoiZWxlbWVudHMiO2E6MDp7fX19]]></components>
 <export><![CDATA[csv,ods,xls,]]></export>
 <jsordering><![CDATA[1]]></jsordering>
-<global><![CDATA[1]]></global>
+<global><![CDATA[0]]></global>
 <lastexecutiontime><![CDATA[1]]></lastexecutiontime>
 <cron><![CDATA[0]]></cron>
 <remote><![CDATA[0]]></remote>
